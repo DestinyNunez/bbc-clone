@@ -3,7 +3,7 @@ This project is a clone of BBC.
 
 **Link to project:** https://bbc-clone-dn.netlify.app/
 
-
+![bbc](https://user-images.githubusercontent.com/88361309/164567287-bfbfe2f2-5802-4751-9d84-e41a17458e36.png)
 
 ## How It's Made:
 
